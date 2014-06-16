@@ -1,0 +1,23 @@
+{
+  "name": "ustat",
+  "version": "0.0.0",
+  "description": "ustat is an library for Node.JS which provide powerful function for view usage statistic of system resourecs",
+  "main": "./lib/index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ExWei/ustat.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "os",
+    "statisitc",
+    "cpu",
+    "ustat",
+    "memory",
+    "ram"
+  ],
+  "author": "Alex Schafer",
+  "license": "ISC"
+}
