@@ -6,3 +6,11 @@ You can install ustat with the npm:
 ```bash
 npm install ustat
 ```
+
+## Functions
+### freemem(unit)
+Returns free memory in the selected unit
+
+__Arguments__
+
+* unit - Unit for result value, one of (byte, kb, mb, gb, tb, pb, eb, zb, yb).
