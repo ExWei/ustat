@@ -21,3 +21,10 @@ Returns total memory in the selected unit
 __Arguments__
 
 * unit - Unit for result value, one of (byte, kb, mb, gb, tb, pb, eb, zb, yb).
+
+### usedmem(unit)
+Returns used memory in the selected unit
+
+__Arguments__
+
+* unit - Unit for result value, one of (byte, kb, mb, gb, tb, pb, eb, zb, yb).
