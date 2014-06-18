@@ -1,6 +1,6 @@
 {
   "name": "ustat",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ustat is an library for Node.JS which provide powerful function for view usage statistic of system resourecs",
   "main": "./lib/index.js",
   "repository" : {
