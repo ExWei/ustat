@@ -36,3 +36,6 @@ __Arguments__
 
 * unit - Unit for result value, one of (byte, kb, mb, gb, tb, pb, eb, zb, yb).
 * path - Path for space checking (like c: on Windows or /dev on Linux).
+
+### loadavg()
+Returns average load.
