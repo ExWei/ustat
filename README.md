@@ -38,4 +38,4 @@ __Arguments__
 * path - Path for space checking (like c: on Windows or /dev on Linux).
 
 ### loadavg()
-Returns average load.
+Returns average load. Linux only.
